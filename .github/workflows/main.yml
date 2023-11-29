@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - dev
+      - main
 jobs:
   FTP-Deploy-Action:
     name: FTP-Deploy-Action
